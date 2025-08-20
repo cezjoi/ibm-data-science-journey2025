@@ -6,7 +6,7 @@ This repository documents my **8-week plan** to achieve the IBM Data Science Cer
 
 ## 📂 Repository Structure
 ```
-ibm-ds-journey/
+ibm-data-science-journey2025/
 │
 ├── Week1_Data_Fundamentals/
 ├── Week2_Data_Science_Foundations/
