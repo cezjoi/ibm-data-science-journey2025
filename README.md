@@ -8,6 +8,7 @@ This repository documents my **8-week plan** to achieve the IBM Data Science Cer
 ```
 ibm-data-science-journey2025/
 │
+├── badges/
 ├── Week1_Data_Fundamentals/
 ├── Week2_Data_Science_Foundations/
 ├── Week3_Data_Analytics/
